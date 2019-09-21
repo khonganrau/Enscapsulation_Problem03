@@ -1,11 +1,13 @@
 # **Enscapsulation-** _**Problem03:Validation of Data**_
 ## **Problem 03**
 ### _**Validation of Data**_
-> _**NOTE:**_ Creating a public **Startup** class with the namescape **PersonInfo**.    
+> _**NOTE:**_ Creating a public **Startup** class with the namescape **PersonInfo**.  
+
 Expand _**Person**_ with proper validation for every field:
 * Names must be at least 3 symbols
 * Age must not be zero or negative.
-* Salary cannot be less than 460.0
+* Salary cannot be less than 460.0  
+
 Print proper messages to the user:
 * "Age cannot be zero or a negative integer!"
 * "First name cannot contain fewer tha 3 symbols!"
